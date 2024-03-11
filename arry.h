@@ -4,7 +4,7 @@
   4 Date:
   5 Description:
   6 input:
-  7 output:
+  7 output
   8 doc
   9 echo "0th argument:$0"
  10 echo "1th argument:$1"
